@@ -20,12 +20,9 @@ I care about clear architecture, automated tests and documentation that makes a 
 - **Testing:** Jest
 - **AI:** LangChain
 
-<!--
 ## Featured projects
 
-Add 2 or 3 projects here once the repos are cleaned up and public again.
-- [project-name](https://github.com/fabricioarnecke/project-name): what it does, in one line, and the main tech.
--->
+- [nestjs-music-application](https://github.com/fabricioarnecke/nestjs-music-application): REST API for users and music playlists with JWT auth and role-based access. NestJS, Prisma, PostgreSQL and Docker, with unit and e2e tests running in GitHub Actions.
 
 ## Contact
 
